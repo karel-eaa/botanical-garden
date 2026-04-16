@@ -1,10 +1,8 @@
 {
   "11": {
     "start": {
-      "0": "Welcome into the desert!",
-      "1": "There is very low humility, so...",
-      "2": "also the plants needs to be ready for that.",
-      "3": "Prepare your scanner and let´s go!"
+      "0": "Welcome to the Mediterranean House",
+      "1": "a warm and sunny place filled with the fresh smell of herbs"
     },
     "0": {
       "0": "Oh! You just found olive, how adorable olive!",
@@ -36,6 +34,10 @@
       "3": "Beautiful but dangerous! Keep exploring, brave botanist!"
     },
     "12": {
+      "start": {
+      "0": "Now we’re in the Desert House",
+      "1": "a very hot and dry land with lots of sand and almost no water!"
+    },
       "0": {
         "0": "Wow! You stumbled upon the whole Cactus family!",
         "1": "These tough guys are masters of survival in the driest places on Earth!",
@@ -68,6 +70,10 @@
       }
     },
     "13": {
+       "start": {
+      "0": "Here in the Mountain Forest House",
+      "1": "it’s cool and misty, with tall trees and soft green moss all around."
+    },
       "0": {
         "0": "Yum! You found a Lemon tree! That bright yellow fruit is iconic!",
         "1": "Did you know lemons are packed with Vitamin C and used in everything?",
@@ -100,6 +106,11 @@
       }
     },
     "14": {
+       "start": {
+      "0": "Finally, we arrive at the Tropical Rainforest House",
+      "1": "A hot, wet jungle full of lush plants and.. ",
+      "2": "beautiful butterflies!"
+    },
       "0": {
         "0": "Oh my! You found the Cacao Tree! The chocolate factory is right here!",
         "1": "Those big pods growing on the trunk hold the seeds that become chocolate!",
