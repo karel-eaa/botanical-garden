@@ -46,28 +46,26 @@
       "3": "So many different shapes and sizes to discover! Keep exploring!"
     },
     "1": {
+      "0": "Look on that small and cute cactus!",
+      "1": "But despite its small size, it is still quite paintful to touch it."
+    },
+    "2": {
       "0": "Look at that fluffy treasure! You found Upland Cotton!",
       "1": "Did you know this soft fiber has been used for clothing for thousands of years?",
       "2": "It's the most common natural fiber in the world today!",
       "3": "From your t-shirt to your jeans, it's everywhere! Keep going!"
     },
-    "2": {
+    "3": {
       "0": "Whoa! You found a Pebble Plant! It's playing hide-and-seek!",
       "1": "These clever little guys look exactly like stones to fool hungry animals!",
       "2": "But wait... if you look closely, you'll see a tiny flower peeking out!",
       "3": "Nature's best camouflage! Keep your eyes peeled for more!"
     },
-    "3": {
+    "4": {
       "0": "Oh! You found the Golden Barrel Cactus! It's looking round and golden!",
       "1": "This spherical beauty is covered in sharp spines that glow in the sun!",
       "2": "It's a classic desert dweller that stores water like a pro!",
       "3": "Such a perfect shape! Keep exploring the desert wonders!"
-    },
-    "4": {
-      "0": "Hey! You just discovered the Coffee plant! Time to wake up!",
-      "1": "Those little red cherries hold the beans that power millions of mornings!",
-      "2": "From the tropics to your cup, it's a journey full of flavor!",
-      "3": "Now that's a useful find! Keep brewing up new discoveries!"
     }
   },
   "13": {
@@ -76,34 +74,34 @@
       "1": "it's cool and misty, with tall trees and soft green moss all around."
     },
     "0": {
+      "0": "Hey! You just discovered the Coffee plant! Time to wake up!",
+      "1": "Those little red cherries hold the beans that power millions of mornings!",
+      "2": "From the tropics to your cup, it's a journey full of flavor!",
+      "3": "Now that's a useful find! Keep brewing up new discoveries!"
+    },
+    "1": {
       "0": "Yum! You found a Lemon tree! That bright yellow fruit is iconic!",
       "1": "Did you know lemons are packed with Vitamin C and used in everything?",
       "2": "From fresh drinks to cleaning products, they are super versatile!",
       "3": "Fresh and zesty! Keep exploring these citrus treasures!"
     },
-    "1": {
+    "2": {
       "0": "Oh! You found a Kumquat! It's a tiny citrus powerhouse!",
       "1": "Unlike other fruits, you can eat the whole thing—skin and all!",
       "2": "It's sweet on the outside and tangy on the inside—a unique treat!",
       "3": "Small but mighty! Keep munching on new discoveries!"
     },
-    "2": {
+    "3": {
       "0": "Wow! You found the Indian Clock Vine! It's a timekeeper of nature!",
       "1": "Its flowers open and close at very specific times of the day!",
       "2": "It's like a living clock that tells time with its blooms!",
       "3": "Nature's own schedule! Keep watching the vines grow!"
     },
-    "3": {
+    "4": {
       "0": "Hello! You discovered the Tea Plant! The world's favorite drink starts here!",
       "1": "Every sip of green or black tea comes from the leaves of this bush!",
       "2": "It's been cultivated for centuries for its calming and refreshing properties!",
       "3": "A perfect brew of discovery! Keep steeping in new knowledge!"
-    },
-    "4": {
-      "0": "Sweet! You found the Vanilla orchid! It's the source of that delicious flavor!",
-      "1": "Did you know vanilla is one of the most labor-intensive crops to harvest?",
-      "2": "Each flower must be hand-pollinated to produce those precious pods!",
-      "3": "Pure magic in a pod! Keep tasting the sweetness of nature!"
     }
   },
   "14": {
@@ -113,10 +111,10 @@
       "2": "beautiful butterflies!"
     },
     "0": {
-      "0": "Oh my! You found the Cacao Tree! The chocolate factory is right here!",
-      "1": "Those big pods growing on the trunk hold the seeds that become chocolate!",
-      "2": "From bitter beans to sweet treats, it's a magical transformation!",
-      "3": "Chocolate lovers, rejoice! Keep exploring the sweet side of nature!"
+      "0": "Sweet! You found the Vanilla orchid! It's the source of that delicious flavor!",
+      "1": "Did you know vanilla is one of the most labor-intensive crops to harvest?",
+      "2": "Each flower must be hand-pollinated to produce those precious pods!",
+      "3": "Pure magic in a pod! Keep tasting the sweetness of nature!"
     },
     "1": {
       "0": "Whoa! You found the Vegetable Ivory Palm! It's nature's hard nut!",
