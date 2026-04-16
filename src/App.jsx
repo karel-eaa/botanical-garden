@@ -30,10 +30,9 @@ export default function App() {
       </>}
       {/* Photo / Scan */}
       {view == 1 && <>
-
-        <button onClick={() => {
-          console.log(progressManager.getCurrentScript())
-        }}>Test</button>
+        <div className="absolute top-[10px] left-[10px] z-100 bg-secondary-1 px-[16px] py-[12px] rounded-[20px]">
+          <button className="text-[17px] text-mint-cream" onClick={() => setView(3)}>Back to hint</button>
+        </div>
         <div className="absolute top-[144px] left-1/2 -translate-x-1/2 z-100 bg-secondary-1 px-[16px] rounded-[20px] w-[300px]">
           <p className="text-[17px] text-center text-mint-cream">Place the QR code inside the frame</p>
         </div>
