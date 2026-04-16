@@ -5,14 +5,15 @@ import DialoguePanel from "./components/DialoguePanel";
 import { Scanner } from '@yudiel/react-qr-scanner'
 import { useMemo, useState } from "react";
 import Map from "./components/Map";
+import Hint from "./components/Hint";
 
 export default function App() {
   // View Manager
   // 0 = map
   // 1 = photo/scan
   // 2 = dialogue
-  let [view, setView] = useState(1)
-  let [room, setRoom] = useState(null)
+  // 3 = hint
+  let [view, setView] = useState(0)
 
   // Progress Manager
   let options = {
@@ -54,7 +55,7 @@ export default function App() {
             },
           }}
           onScan={(result) => {
-            let scanResult = progressManager.recordScan(result[0].rawValue.toString());
+            let scanResult = progressManager.recordSelectedScan(result[0].rawValue.toString());
             console.log(result[0].rawValue.toString());
             if (scanResult) {
               setView(2);
@@ -104,6 +105,10 @@ export default function App() {
       {view == 2 && <>
         <DialoguePanel script={progressManager.getCurrentScript()} setView={setView} />
         <button onClick={() => setView(1)}>Back</button>
+      </>}
+      {/* Hint */}
+      {view == 3 && <>
+        <Hint plant={ progressManager.getCurrentPlant() } setView={setView} />
       </>}
     </>
   );

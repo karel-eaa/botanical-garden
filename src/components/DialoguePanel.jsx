@@ -11,7 +11,7 @@ export default function DialoguePanel({ script, setView }) {
                     <h1 className="text-xl">{script[step]}</h1>
                 </div>
             )}
-            {step == totalSteps && setView(1)}
+            {step == totalSteps && setView(3)}
         </div>
     )
 }
