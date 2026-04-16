@@ -1,1 +1,76 @@
 @import "tailwindcss";
+
+@import "tailwindcss";
+
+@theme {
+    /* ─────────────────────────────────────────
+     PRIMITIVES
+     ───────────────────────────────────────── */
+
+    /* Blues */
+    --color-sky-blue: #71C8E7;
+    --color-indigo: #0E3862;
+    --color-ashed-blue: #5A6E86;
+
+    /* Reds / Pinks */
+    --color-dark-pastel-red: #DE3A1F;
+    --color-amaranth-pink: #FAA1B3;
+
+    /* Almonds (warm whites) */
+    --color-almond-1000: #F2DBCD;
+    --color-almond-900: #F6E5DB;
+    --color-almond-800: #F9F0EA;
+    --color-almond-700: #FDFAF8;
+
+    /* Greys */
+    --color-ashed-grey: #A6A5A9;
+    --color-light-grey: #D9D9D9;
+
+    /* Greens */
+    --color-castleton-green: #015B28;
+    --color-spanish-green: #00974A;
+    --color-rich-leaf-green: #2E7D32;
+    --color-lime-green: #A5D14F;
+    --color-mint-cream: #F1F8E9;
+    --color-dark-forest-green: #1B3B1A;
+
+    /* Yellows / Ambers */
+    --color-sunset-amber: #F9A825;
+    --color-golden-yellow: #F4C430;
+
+    /* Neutrals */
+    --color-neutral-1000: #000811;
+    --color-neutral-900: #05182C;
+    --color-neutral-800: #092847;
+    --color-neutral-700: #0E3862;
+
+    /* ─────────────────────────────────────────
+     SEMANTIC — Background
+     ───────────────────────────────────────── */
+    --color-background-01: var(--color-mint-cream);
+    /* #F1F8E9 */
+    --color-background-02: var(--color-light-grey);
+    /* #D9D9D9 */
+
+    /* ─────────────────────────────────────────
+     SEMANTIC — Status
+     ───────────────────────────────────────── */
+    --color-progress: var(--color-golden-yellow);
+    /* #F4C430 */
+    --color-attention: var(--color-dark-pastel-red);
+    /* #DE3A1F */
+    --color-completed: var(--color-spanish-green);
+    /* #00974A */
+
+    /* ─────────────────────────────────────────
+     BRAND
+     ───────────────────────────────────────── */
+    --color-primary: var(--color-lime-green);
+    /* #A5D14F */
+    --color-secondary-1: var(--color-rich-leaf-green);
+    /* #2E7D32 */
+    --color-secondary-2: var(--color-spanish-green);
+    /* #00974A */
+    --color-secondary-3: var(--color-sky-blue);
+    /* #71C8E7 */
+}

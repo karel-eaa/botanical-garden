@@ -32,127 +32,127 @@
       "1": "Here's a secret: it is NOT actually a true lily at all!",
       "2": "Even wilder — it can trap insects inside its flower… and every part of it is poisonous!",
       "3": "Beautiful but dangerous! Keep exploring, brave botanist!"
-    },
-    "12": {
-      "start": {
-      "0": "Now we’re in the Desert House",
+    }
+  },
+  "12": {
+    "start": {
+      "0": "Now we're in the Desert House",
       "1": "a very hot and dry land with lots of sand and almost no water!"
     },
-      "0": {
-        "0": "Wow! You stumbled upon the whole Cactus family!",
-        "1": "These tough guys are masters of survival in the driest places on Earth!",
-        "2": "With their spines and water-storing stems, they are built to last!",
-        "3": "So many different shapes and sizes to discover! Keep exploring!"
-      },
-      "1": {
-        "0": "Look at that fluffy treasure! You found Upland Cotton!",
-        "1": "Did you know this soft fiber has been used for clothing for thousands of years?",
-        "2": "It's the most common natural fiber in the world today!",
-        "3": "From your t-shirt to your jeans, it's everywhere! Keep going!"
-      },
-      "2": {
-        "0": "Whoa! You found a Pebble Plant! It's playing hide-and-seek!",
-        "1": "These clever little guys look exactly like stones to fool hungry animals!",
-        "2": "But wait... if you look closely, you'll see a tiny flower peeking out!",
-        "3": "Nature's best camouflage! Keep your eyes peeled for more!"
-      },
-      "3": {
-        "0": "Oh! You found the Golden Barrel Cactus! It's looking round and golden!",
-        "1": "This spherical beauty is covered in sharp spines that glow in the sun!",
-        "2": "It's a classic desert dweller that stores water like a pro!",
-        "3": "Such a perfect shape! Keep exploring the desert wonders!"
-      },
-      "4": {
-        "0": "Hey! You just discovered the Coffee plant! Time to wake up!",
-        "1": "Those little red cherries hold the beans that power millions of mornings!",
-        "2": "From the tropics to your cup, it's a journey full of flavor!",
-        "3": "Now that's a useful find! Keep brewing up new discoveries!"
-      }
+    "0": {
+      "0": "Wow! You stumbled upon the whole Cactus family!",
+      "1": "These tough guys are masters of survival in the driest places on Earth!",
+      "2": "With their spines and water-storing stems, they are built to last!",
+      "3": "So many different shapes and sizes to discover! Keep exploring!"
     },
-    "13": {
-       "start": {
+    "1": {
+      "0": "Look at that fluffy treasure! You found Upland Cotton!",
+      "1": "Did you know this soft fiber has been used for clothing for thousands of years?",
+      "2": "It's the most common natural fiber in the world today!",
+      "3": "From your t-shirt to your jeans, it's everywhere! Keep going!"
+    },
+    "2": {
+      "0": "Whoa! You found a Pebble Plant! It's playing hide-and-seek!",
+      "1": "These clever little guys look exactly like stones to fool hungry animals!",
+      "2": "But wait... if you look closely, you'll see a tiny flower peeking out!",
+      "3": "Nature's best camouflage! Keep your eyes peeled for more!"
+    },
+    "3": {
+      "0": "Oh! You found the Golden Barrel Cactus! It's looking round and golden!",
+      "1": "This spherical beauty is covered in sharp spines that glow in the sun!",
+      "2": "It's a classic desert dweller that stores water like a pro!",
+      "3": "Such a perfect shape! Keep exploring the desert wonders!"
+    },
+    "4": {
+      "0": "Hey! You just discovered the Coffee plant! Time to wake up!",
+      "1": "Those little red cherries hold the beans that power millions of mornings!",
+      "2": "From the tropics to your cup, it's a journey full of flavor!",
+      "3": "Now that's a useful find! Keep brewing up new discoveries!"
+    }
+  },
+  "13": {
+    "start": {
       "0": "Here in the Mountain Forest House",
-      "1": "it’s cool and misty, with tall trees and soft green moss all around."
+      "1": "it's cool and misty, with tall trees and soft green moss all around."
     },
-      "0": {
-        "0": "Yum! You found a Lemon tree! That bright yellow fruit is iconic!",
-        "1": "Did you know lemons are packed with Vitamin C and used in everything?",
-        "2": "From fresh drinks to cleaning products, they are super versatile!",
-        "3": "Fresh and zesty! Keep exploring these citrus treasures!"
-      },
-      "1": {
-        "0": "Oh! You found a Kumquat! It's a tiny citrus powerhouse!",
-        "1": "Unlike other fruits, you can eat the whole thing—skin and all!",
-        "2": "It's sweet on the outside and tangy on the inside—a unique treat!",
-        "3": "Small but mighty! Keep munching on new discoveries!"
-      },
-      "2": {
-        "0": "Wow! You found the Indian Clock Vine! It's a timekeeper of nature!",
-        "1": "Its flowers open and close at very specific times of the day!",
-        "2": "It's like a living clock that tells time with its blooms!",
-        "3": "Nature's own schedule! Keep watching the vines grow!"
-      },
-      "3": {
-        "0": "Hello! You discovered the Tea Plant! The world's favorite drink starts here!",
-        "1": "Every sip of green or black tea comes from the leaves of this bush!",
-        "2": "It's been cultivated for centuries for its calming and refreshing properties!",
-        "3": "A perfect brew of discovery! Keep steeping in new knowledge!"
-      },
-      "4": {
-        "0": "Sweet! You found the Vanilla orchid! It's the source of that delicious flavor!",
-        "1": "Did you know vanilla is one of the most labor-intensive crops to harvest?",
-        "2": "Each flower must be hand-pollinated to produce those precious pods!",
-        "3": "Pure magic in a pod! Keep tasting the sweetness of nature!"
-      }
+    "0": {
+      "0": "Yum! You found a Lemon tree! That bright yellow fruit is iconic!",
+      "1": "Did you know lemons are packed with Vitamin C and used in everything?",
+      "2": "From fresh drinks to cleaning products, they are super versatile!",
+      "3": "Fresh and zesty! Keep exploring these citrus treasures!"
     },
-    "14": {
-       "start": {
+    "1": {
+      "0": "Oh! You found a Kumquat! It's a tiny citrus powerhouse!",
+      "1": "Unlike other fruits, you can eat the whole thing—skin and all!",
+      "2": "It's sweet on the outside and tangy on the inside—a unique treat!",
+      "3": "Small but mighty! Keep munching on new discoveries!"
+    },
+    "2": {
+      "0": "Wow! You found the Indian Clock Vine! It's a timekeeper of nature!",
+      "1": "Its flowers open and close at very specific times of the day!",
+      "2": "It's like a living clock that tells time with its blooms!",
+      "3": "Nature's own schedule! Keep watching the vines grow!"
+    },
+    "3": {
+      "0": "Hello! You discovered the Tea Plant! The world's favorite drink starts here!",
+      "1": "Every sip of green or black tea comes from the leaves of this bush!",
+      "2": "It's been cultivated for centuries for its calming and refreshing properties!",
+      "3": "A perfect brew of discovery! Keep steeping in new knowledge!"
+    },
+    "4": {
+      "0": "Sweet! You found the Vanilla orchid! It's the source of that delicious flavor!",
+      "1": "Did you know vanilla is one of the most labor-intensive crops to harvest?",
+      "2": "Each flower must be hand-pollinated to produce those precious pods!",
+      "3": "Pure magic in a pod! Keep tasting the sweetness of nature!"
+    }
+  },
+  "14": {
+    "start": {
       "0": "Finally, we arrive at the Tropical Rainforest House",
       "1": "A hot, wet jungle full of lush plants and.. ",
       "2": "beautiful butterflies!"
     },
-      "0": {
-        "0": "Oh my! You found the Cacao Tree! The chocolate factory is right here!",
-        "1": "Those big pods growing on the trunk hold the seeds that become chocolate!",
-        "2": "From bitter beans to sweet treats, it's a magical transformation!",
-        "3": "Chocolate lovers, rejoice! Keep exploring the sweet side of nature!"
-      },
-      "1": {
-        "0": "Whoa! You found the Vegetable Ivory Palm! It's nature's hard nut!",
-        "1": "Its seeds are so hard and white, they were once used as real ivory!",
-        "2": "Artisans carve buttons and trinkets from these tough seeds!",
-        "3": "A sustainable treasure! Keep uncovering nature's secrets!"
-      },
-      "2": {
-        "0": "Look at that! You found Pavonia Multiflora! It's a floral showstopper!",
-        "1": "With its delicate, fringed petals, it looks like a queen's dress!",
-        "2": "These flowers bloom in clusters, creating a stunning display of color!",
-        "3": "Royal beauty in the garden! Keep admiring the blooms!"
-      },
-      "3": {
-        "0": "Splash! You found the Water Hyacinth! It's floating on the surface!",
-        "1": "This plant has beautiful purple flowers and swollen stems that keep it afloat!",
-        "2": "While pretty, it grows so fast it can cover entire lakes if not managed!",
-        "3": "A powerful water dweller! Keep exploring aquatic life!"
-      },
-      "4": {
-        "0": "Wow! You found the Blackburn Red Bell Tree! What a splash of color!",
-        "1": "Its bright red, bell-shaped flowers hang down like festive ornaments!",
-        "2": "It's a stunning sight that attracts birds and butterflies alike!",
-        "3": "Nature's red carpet! Keep looking for more vibrant blooms!"
-      },
-      "5": {
-        "0": "Whoa! You discovered the Baobab! It's the giant of the savanna!",
-        "1": "This massive tree stores thousands of liters of water in its trunk!",
-        "2": "It can live for thousands of years and is often called the 'Tree of Life'!",
-        "3": "An ancient giant! Keep exploring these legendary trees!"
-      },
-      "6": {
-        "0": "Hey! You found the Rice plant! It feeds half the world!",
-        "1": "Growing in flooded fields, these grasses produce the grains we love!",
-        "2": "From sushi to risotto, rice is a staple in cuisines everywhere!",
-        "3": "A vital crop! Keep harvesting new knowledge!"
-      }
+    "0": {
+      "0": "Oh my! You found the Cacao Tree! The chocolate factory is right here!",
+      "1": "Those big pods growing on the trunk hold the seeds that become chocolate!",
+      "2": "From bitter beans to sweet treats, it's a magical transformation!",
+      "3": "Chocolate lovers, rejoice! Keep exploring the sweet side of nature!"
+    },
+    "1": {
+      "0": "Whoa! You found the Vegetable Ivory Palm! It's nature's hard nut!",
+      "1": "Its seeds are so hard and white, they were once used as real ivory!",
+      "2": "Artisans carve buttons and trinkets from these tough seeds!",
+      "3": "A sustainable treasure! Keep uncovering nature's secrets!"
+    },
+    "2": {
+      "0": "Look at that! You found Pavonia Multiflora! It's a floral showstopper!",
+      "1": "With its delicate, fringed petals, it looks like a queen's dress!",
+      "2": "These flowers bloom in clusters, creating a stunning display of color!",
+      "3": "Royal beauty in the garden! Keep admiring the blooms!"
+    },
+    "3": {
+      "0": "Splash! You found the Water Hyacinth! It's floating on the surface!",
+      "1": "This plant has beautiful purple flowers and swollen stems that keep it afloat!",
+      "2": "While pretty, it grows so fast it can cover entire lakes if not managed!",
+      "3": "A powerful water dweller! Keep exploring aquatic life!"
+    },
+    "4": {
+      "0": "Wow! You found the Blackburn Red Bell Tree! What a splash of color!",
+      "1": "Its bright red, bell-shaped flowers hang down like festive ornaments!",
+      "2": "It's a stunning sight that attracts birds and butterflies alike!",
+      "3": "Nature's red carpet! Keep looking for more vibrant blooms!"
+    },
+    "5": {
+      "0": "Whoa! You discovered the Baobab! It's the giant of the savanna!",
+      "1": "This massive tree stores thousands of liters of water in its trunk!",
+      "2": "It can live for thousands of years and is often called the 'Tree of Life'!",
+      "3": "An ancient giant! Keep exploring these legendary trees!"
+    },
+    "6": {
+      "0": "Hey! You found the Rice plant! It feeds half the world!",
+      "1": "Growing in flooded fields, these grasses produce the grains we love!",
+      "2": "From sushi to risotto, rice is a staple in cuisines everywhere!",
+      "3": "A vital crop! Keep harvesting new knowledge!"
     }
   }
 }

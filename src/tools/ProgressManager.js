@@ -43,4 +43,8 @@ export default class ProgressManager {
 
     getCurrentScript() { return this.currentScript }
 
+    setStartDialogue(room) {
+        this.currentScript = script[room]["start"]
+    }
+
 }
