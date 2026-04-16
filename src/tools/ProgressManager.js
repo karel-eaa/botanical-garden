@@ -1,10 +1,15 @@
 import progressTemplate from './progressTemplate.json'
+import QrCodeTranslator from './QrCodeTranslator'
 
 export default class ProgressManager {
-    // Requires valueKey
+    // Requires valueKey and array of scripts
     constructor(options) {
         this.valueKey = options.valueKey
+        this.scripts = options.scripts
         this.cache = this.getLocalStorageValue()
+        this.dialogueStatus = false
+        this.currentScript = null
+        this.qrCodeTranslator = new QrCodeTranslator()
         // if there is nothing in local storage
         // create new template for progress tracking
         if (this.cache == 'undefined' || this.cache == null) {
@@ -18,10 +23,21 @@ export default class ProgressManager {
     writeLocalStorageValue(data) { localStorage.setItem(this.valueKey, JSON.stringify(data)) }
     
     // Progress methods
-    recordScan(room, id) {
-        this.cache[room][id] = true
-        this.writeLocalStorageValue(this.cache)
+    recordScan(raw) {
+        let translatorResult = this.qrCodeTranslator.translateQrAll(raw)
+        if(translatorResult != null) {
+            this.cache[translatorResult[0]][translatorResult[1]] = true
+            this.writeLocalStorageValue(this.cache)
+
+            // update script for dialogue
+            this.currentScript = [translatorResult[0], translatorResult[1]]
+        }
     }
     isRoomCompleted(room) { return this.cache[room].every(Boolean) }
+
+    // Dialogue methods
+    isDialogueActive() { return this.dialogueStatus }
+
+    getCurrentScript() { return this.currentScript }
 
 }

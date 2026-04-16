@@ -12,4 +12,18 @@ export default class QrCodeTranslator {
             return null
         }
     }
+
+    translateQrAll(url) {
+        let room = 11
+        for (let i = 0; i < 4; i++) {
+            if (dictionary[room][url] !== undefined) {
+                return [room, dictionary[room][url]]
+            }
+
+            room = room + 1
+        }
+        console.error('Unknown QR code error')
+        // return null
+        return null
+    }
 }
