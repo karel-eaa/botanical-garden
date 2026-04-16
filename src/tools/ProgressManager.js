@@ -1,5 +1,6 @@
 import progressTemplate from './progressTemplate.json'
 import QrCodeTranslator from './QrCodeTranslator'
+import script from '../dialogues/scripts.json'
 
 export default class ProgressManager {
     // Requires valueKey and array of scripts
@@ -30,8 +31,10 @@ export default class ProgressManager {
             this.writeLocalStorageValue(this.cache)
 
             // update script for dialogue
-            this.currentScript = [translatorResult[0], translatorResult[1]]
+            this.currentScript = script[translatorResult[0]][translatorResult[1]]
+            return true
         }
+        return false
     }
     isRoomCompleted(room) { return this.cache[room].every(Boolean) }
 

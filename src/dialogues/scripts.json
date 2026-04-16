@@ -7,9 +7,33 @@
             "3": "Prepare your scanner and let´s go!"
         },
         "0": {
-            "0": "Oh... how I adore olives!",
-            "1": "It can take up to 10 years when a tree starts producting olives.",
-            "2": "Mainly found in Greece, and olive oil is out of these."
+            "0": "Oh! You just found olive, how adorable olive!",
+            "1": "Have you know that olive oil was once used as fuel for lamps?",
+            "2": "Keep going and explore more plants!"
+        },
+        "1": {
+            "0": "Oh! You found a Euphorbia! It's a sneaky little imposter!",
+            "1": "It looks JUST like a cactus… but surprise — it is not one at all!",
+            "2": "And watch out! Its white milky juice can actually burn your skin if you touch it!",
+            "3": "Keep going and explore more plants!"
+        },
+        "2": {
+            "0": "Whoa! You just discovered one of nature's most stylish plants!",
+            "1": "Most plants look sad when they dry out… but not this one!",
+            "2": "Even when it dies, it keeps its beautiful shape and looks totally cool and decorative!",
+            "3": "Nature's got great taste, doesn't it? Keep exploring!"
+        },
+        "3": {
+            "0": "Hey there, explorer! You just found a very useful plant!",
+            "1": "Did you know that some people actually use this plant to clean bottles?",
+            "2": "It works like a natural scrubbing brush — no plastic needed!",
+            "3": "Nature had eco-friendly ideas way before we did! Keep it up!"
+        },
+        "4": {
+            "0": "Oh my! You found a Calla Lily — but don't be fooled by that fancy name!",
+            "1": "Here's a secret: it is NOT actually a true lily at all!",
+            "2": "Even wilder — it can trap insects inside its flower… and every part of it is poisonous!",
+            "3": "Beautiful but dangerous! Keep exploring, brave botanist!"
         }
     }
 }
